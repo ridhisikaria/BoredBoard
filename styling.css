@@ -47,6 +47,7 @@ body{
 	text-transform: lowercase;
 	text-shadow: .5px .5px 1px #111;
 	margin-top: 30px;
+	color: lightgrey;
 }
 .btn{
 	color: #dd1d25;
